@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyNotification</string>
+    <string name="show_notification">Show Notification</string>
+    <string name="stop_notification">Stop Notification</string>
+    <string name="welcome_to_notification_details">Welcome to Notification Details</string>
+    <string name="channel_name">Alarm</string>
+    <string name="channel_description">Important to notify.</string>
+</resources>
